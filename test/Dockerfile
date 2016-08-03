@@ -1,6 +1,8 @@
 from gcr.io/cloud-solutions-images/jenkins-k8s-slave
 
-run apt-get -y install --no-install-recommends lxc python-pip
+run apt-get -y install --no-install-recommends python-pip
+
+# lxc
 
 copy test-git-install /tmp/test-git-install
 copy test-ggl-install /tmp/test-ggl-install
