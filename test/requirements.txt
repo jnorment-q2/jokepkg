@@ -1,0 +1,1 @@
+-e git+https://github.com/jnorment-q2/jokepkg.git#egg=funniest-0.1
