@@ -1,0 +1,1 @@
+-e git+https://source.developers.google.com/p/cloud-q2smart/r/jokepkg#egg=funniest-0.1
